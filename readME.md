@@ -6,7 +6,7 @@
 2. 运行实例
 
     ```
-    python run.py --imgdir test1.jpg --gpu-id 0
+    python run.py --imgdir 'test1.jpg' --gpu-id 0
     ```
 
 
